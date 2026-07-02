@@ -60,7 +60,7 @@
 
   function loadApp() {
     const script = document.createElement("script");
-    script.src = "js/app.js?v=transparent-cover-20260702";
+    script.src = "js/app.js?v=transparent-cover-20260702b";
     script.defer = true;
     document.body.appendChild(script);
   }
@@ -75,7 +75,7 @@
               <h2 id="instructor-title">N444 Exam 2 Faculty Access</h2>
             </div>
             <div class="cover-professor" aria-hidden="true">
-              <img src="assets/generated/coach-arms-crossed.webp?v=clean-bg-20260702" alt="" />
+              <img src="assets/generated/coach-point.webp?v=clean-bg-20260702" alt="" />
               <span>Faculty copy. Keep it protected.</span>
             </div>
           </div>
