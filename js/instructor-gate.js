@@ -75,7 +75,7 @@
               <h2 id="instructor-title">N444 Exam 2 Faculty Access</h2>
             </div>
             <div class="cover-professor" aria-hidden="true">
-              <img src="assets/generated/coach-arms-crossed.webp" alt="" />
+              <img src="assets/generated/coach-arms-crossed.webp?v=clean-bg-20260702" alt="" />
               <span>Faculty copy. Keep it protected.</span>
             </div>
           </div>
