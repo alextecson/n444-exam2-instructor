@@ -60,7 +60,7 @@
 
   function loadApp() {
     const script = document.createElement("script");
-    script.src = "js/app.js";
+    script.src = "js/app.js?v=transparent-cover-20260702";
     script.defer = true;
     document.body.appendChild(script);
   }
